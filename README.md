@@ -1,0 +1,2 @@
+# NJiT-DFIR-Project
+Final project for NJiT DFIR class showcasing a CTF using three seperate VMs. SIFT , Victim VM and diagnostic VM. Wireshark was used for PCAP investigation. SIFT used for zeek and malware investigation. Finding backdoor using autoruns. Inspecting regedit for added "$" users. Download and use mimikatz to extract NTFS hash of the $hidden user. The $hidden user used the same password for an encrypted file which was the CTF picture.
